@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "basic",
+      "type": "com.ms.customer.account.configuration.BasicConfiguration",
+      "sourceType": "com.ms.customer.account.configuration.BasicConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "basic.message",
+      "type": "java.lang.String",
+      "sourceType": "com.ms.customer.account.configuration.BasicConfiguration"
+    },
+    {
+      "name": "basic.number",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ms.customer.account.configuration.BasicConfiguration"
+    },
+    {
+      "name": "basic.value",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.ms.customer.account.configuration.BasicConfiguration"
+    }
+  ],
+  "hints": []
+}

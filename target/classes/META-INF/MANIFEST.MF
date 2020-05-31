@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thiru.ms.customer.account
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ThiruvengadamPerumal
+Implementation-Vendor-Id: com.thiru.ms.customer.account
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/thiru.ms.customer.account
+Created-By: Maven Integration for Eclipse
+
